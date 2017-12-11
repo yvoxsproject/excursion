@@ -1,4 +1,32 @@
 html {
   text-align: center;
   background-color: black;
+  font-family: Verdana;
+}
+
+h1 {
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+}
+
+.link a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.decr {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
 }
